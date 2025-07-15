@@ -1,5 +1,8 @@
 # Öğrenci Yönetim Sistemi
 
+## Web Live Link: https://mystudentmanagementproject.netlify.app/ ##
+
+
 Bu proje, HTML, CSS, JavaScript ve jQuery kullanarak geliştirilmiş basit bir öğrenci yönetim sistemidir.
 
 ## Özellikler
