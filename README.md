@@ -18,19 +18,8 @@ Bu proje, HTML, CSS, JavaScript ve jQuery kullanarak geliştirilmiş basit bir �
 - JavaScript (ES5)
 - jQuery 3.6.0
 
-## Kurulum
+![aaaaaf](https://github.com/user-attachments/assets/8f488ce7-93cf-40cd-b0a9-5b95de658632)
 
-1. Projeyi bilgisayarınıza indirin
-2. `index.html` dosyasını web tarayıcınızda açın
-3. Hazır!
-
-## Dosya Yapısı
-
-```
-proje/
-├── index.html          # Ana HTML dosyası
-└── README.md          # Bu dosya
-```
 
 ## Kullanım
 
